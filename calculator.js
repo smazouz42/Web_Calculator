@@ -9,6 +9,9 @@ const equal = document.querySelector('.equal');
 const delet =  document.querySelector('.DEL');
 const scf = document.querySelector('.scf');
 //******************************** functions *******************************//
+
+input.focus();
+
 function clickNumber(event)
 {
     if(result !== undefined)
