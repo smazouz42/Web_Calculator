@@ -1,6 +1,6 @@
 //*************************** Global variables *******************************//
 let result;
-let oldResult;
+let oldResult = 0;
 //******************************** DOM Elements ******************************//
 const input = document.querySelector('.result');
 const numbers = document.querySelectorAll('.number')
